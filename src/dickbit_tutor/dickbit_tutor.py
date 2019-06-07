@@ -4,3 +4,5 @@ self ""
 python fetch keys
 decide on mapping from 10-fingers to letters
 """
+
+
